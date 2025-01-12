@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C#A6_WF/1.1.2": {
+        "runtime": {
+          "C#A6_WF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#A6_WF/1.1.2": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

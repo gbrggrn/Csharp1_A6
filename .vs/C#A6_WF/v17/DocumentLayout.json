@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gusta\\source\\repos\\C#A6_WF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB151AA-A7F0-4B4C-9A21-69A3B4B962E9}|C#A6_WF\\C#A6_WF.csproj|c:\\users\\gusta\\source\\repos\\c#a6_wf\\c#a6_wf\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB151AA-A7F0-4B4C-9A21-69A3B4B962E9}|C#A6_WF\\C#A6_WF.csproj|solutionrelative:c#a6_wf\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB151AA-A7F0-4B4C-9A21-69A3B4B962E9}|C#A6_WF\\C#A6_WF.csproj|c:\\users\\gusta\\source\\repos\\c#a6_wf\\c#a6_wf\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB151AA-A7F0-4B4C-9A21-69A3B4B962E9}|C#A6_WF\\C#A6_WF.csproj|solutionrelative:c#a6_wf\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB151AA-A7F0-4B4C-9A21-69A3B4B962E9}|C#A6_WF\\C#A6_WF.csproj|C:\\Users\\gusta\\source\\repos\\C#A6_WF\\c#a6_wf\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAB151AA-A7F0-4B4C-9A21-69A3B4B962E9}|C#A6_WF\\C#A6_WF.csproj|solutionrelative:c#a6_wf\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB151AA-A7F0-4B4C-9A21-69A3B4B962E9}|C#A6_WF\\C#A6_WF.csproj|C:\\Users\\gusta\\source\\repos\\C#A6_WF\\c#a6_wf\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAB151AA-A7F0-4B4C-9A21-69A3B4B962E9}|C#A6_WF\\C#A6_WF.csproj|solutionrelative:c#a6_wf\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB151AA-A7F0-4B4C-9A21-69A3B4B962E9}|C#A6_WF\\C#A6_WF.csproj|c:\\users\\gusta\\source\\repos\\c#a6_wf\\c#a6_wf\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB151AA-A7F0-4B4C-9A21-69A3B4B962E9}|C#A6_WF\\C#A6_WF.csproj|solutionrelative:c#a6_wf\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB151AA-A7F0-4B4C-9A21-69A3B4B962E9}|C#A6_WF\\C#A6_WF.csproj|c:\\users\\gusta\\source\\repos\\c#a6_wf\\c#a6_wf\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB151AA-A7F0-4B4C-9A21-69A3B4B962E9}|C#A6_WF\\C#A6_WF.csproj|solutionrelative:c#a6_wf\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A6_WF\\C#A6_WF\\Task.cs",
+              "RelativeDocumentMoniker": "C#A6_WF\\Task.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A6_WF\\C#A6_WF\\Task.cs",
+              "RelativeToolTip": "C#A6_WF\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:04:35.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A6_WF\\C#A6_WF\\FileManager.cs",
+              "RelativeDocumentMoniker": "C#A6_WF\\FileManager.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A6_WF\\C#A6_WF\\FileManager.cs",
+              "RelativeToolTip": "C#A6_WF\\FileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:01:23.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A6_WF\\C#A6_WF\\AboutForm.cs",
+              "RelativeDocumentMoniker": "C#A6_WF\\AboutForm.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A6_WF\\C#A6_WF\\AboutForm.cs [Design]",
+              "RelativeToolTip": "C#A6_WF\\AboutForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:32:19.005Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskForm.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A6_WF\\C#A6_WF\\TaskForm.cs",
+              "RelativeDocumentMoniker": "C#A6_WF\\TaskForm.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A6_WF\\C#A6_WF\\TaskForm.cs",
+              "RelativeToolTip": "C#A6_WF\\TaskForm.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAUwEsBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:30:11.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A6_WF\\C#A6_WF\\TaskForm.cs",
+              "RelativeDocumentMoniker": "C#A6_WF\\TaskForm.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A6_WF\\C#A6_WF\\TaskForm.cs [Design]",
+              "RelativeToolTip": "C#A6_WF\\TaskForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:07:32.169Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A6_WF\\C#A6_WF\\TaskManager.cs",
+              "RelativeDocumentMoniker": "C#A6_WF\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A6_WF\\C#A6_WF\\TaskManager.cs",
+              "RelativeToolTip": "C#A6_WF\\TaskManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAIIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:29:03.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
