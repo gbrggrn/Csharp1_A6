@@ -20,21 +20,12 @@ namespace C_A6_WF
         public TaskForm()
         {
             InitializeComponent();
-
-            fileManager = new();
-
-            InitInstanceVariables();
-
             toDoListBox.SelectedIndexChanged += ToggleButtonsOnSelect!;
-
+            InitInstanceVariables();
             InitConfigTimer();
-
             LoadPriorityComboBox();
-
             ConfigDateTimePicker();
-
             ConfigToolTip();
-
             ToggleButtons(false);
         }
 
@@ -44,9 +35,8 @@ namespace C_A6_WF
         private void InitInstanceVariables()
         {
             taskManager = new();
-
             currentTask = new();
-
+            fileManager = new();
             toolTip = new();
         }
 
@@ -275,16 +265,14 @@ namespace C_A6_WF
             }
 
             DialogResult deleteOrNot = MessageBox.Show("Are you sure you want to delete this task?",
-                "Are you sure?",
+                "Delete task?",
                 MessageBoxButtons.YesNo,
                 MessageBoxIcon.Question);
 
             if (deleteOrNot == DialogResult.Yes)
             {
                 int taskToDeleteIndex = toDoListBox.SelectedIndex;
-
                 taskManager.DeleteTask(taskToDeleteIndex);
-
                 UpdateToDoListBox();
             }
         }
@@ -409,7 +397,6 @@ namespace C_A6_WF
         private void AboutToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             AboutForm aboutForm = new();
-
             aboutForm.Show();
         }
     }

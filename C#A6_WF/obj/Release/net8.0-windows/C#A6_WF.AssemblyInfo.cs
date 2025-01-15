@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#A6_WF")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.2.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.2+2c9c1e93ab049749e49331b9c6267a483638b7d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#A6_WF")]
